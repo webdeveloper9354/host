@@ -152,6 +152,7 @@ const Home = () => {
               lineHeight: '1.6'
             }}>
               Our platform delivers lightning-fast performance with optimized workflows.
+              Our platform delivers lightning-fast performance with optimized workflows.
             </p>
           </div>
 
